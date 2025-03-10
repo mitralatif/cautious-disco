@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import random
 
 # Replace this with your bot token from BotFather
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = AAGGAett_CmxThf5-Ko-L43T3wyCXo_yhYU
 
 # Define responses
 def chat(update: Update, context: CallbackContext) -> None:
